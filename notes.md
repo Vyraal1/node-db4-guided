@@ -17,3 +17,24 @@ For the `animals` the client wants to record:
 
 Determine the database tables necessary to track this information.
 Label any relationships between table.
+
+### Components
+
+- entities
+- properties
+- relationshipos
+
+### Workflow
+
+- identiy entities
+- identify the properties
+- identify the relationship
+
+### Mantras
+
+- every table must have only one `primary key`
+- work on ** two or three** entites at a time
+- **one to many** relationships are modeled using a **Foreign Key**
+- the **Foreign Key** always goes in the ** many ** side
+- the **Foreign Key Column** must be the **same type** as the **Primary Key**
+-
